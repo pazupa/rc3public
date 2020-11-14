@@ -93,11 +93,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"[A]WaterFall3_pipo.tsx"
+         "source":"[A]WaterFall3_pipo.png"
         }, 
         {
          "firstgid":49,
-         "source":"[Base]BaseChip_pipo.tsx"
+         "source":"[Base]BaseChip_pipo.png"
         }],
  "tilewidth":32,
  "type":"map",

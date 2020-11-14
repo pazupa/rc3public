@@ -123,7 +123,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"[Base]BaseChip_pipo.tsx"
+         "source":"[Base]BaseChip_pipo.png"
         }],
  "tilewidth":32,
  "type":"map",
